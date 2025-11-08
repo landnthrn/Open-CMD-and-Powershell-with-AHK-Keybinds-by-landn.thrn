@@ -21,7 +21,8 @@ Paste the shortcut file there so it starts up with every computer boot
 
 ---
 
-# Test out the default keybinds
+# TEST OUT THE DEFAULT KEYBINDS:
+Load up a game and try them out!
 
 - **Win + G** → Opens Command Prompt  
 - **Win + H** → Opens PowerShell  
