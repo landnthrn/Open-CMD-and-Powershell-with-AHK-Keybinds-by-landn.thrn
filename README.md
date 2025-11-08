@@ -2,27 +2,27 @@
 
 # HOW TO USE:
 
-First install [AutoHotKey](https://www.autohotkey.com)  
+- First install [AutoHotKey](https://www.autohotkey.com)  
 
-Once AutoHotKey is installed you can run the **OpenTerminals.ahk** by Right Click > Run Script
+- Once AutoHotKey is installed you can run the **OpenTerminals.ahk** by Right Click > Run Script
 
 # IF YOU WANT IT TO AUTO RUN ON PC STARTUP:
 
-Place the **OpenTerminals.ahk** file into your AutoHotKey Folder (default path):  
+- Place the **OpenTerminals.ahk** file into your AutoHotKey Folder (default path):  
 `C:\Users\%USERNAME%\Documents\AutoHotkey`
 
-Create a shortcut for the **OpenTerminals.ahk**  
+- Create a shortcut for the **OpenTerminals.ahk**  
 
-Right click on the shortcut > Select **Cut**  
+- Right click on the shortcut > Select **Cut**  
 
-Press **Win + R** and type `shell:startup`, then hit **Enter**  
+- Press **Win + R** and type `shell:startup`, then hit **Enter**  
 
-Paste the shortcut file there so it starts up with every computer boot  
+- Paste the shortcut file there so it starts up with every computer boot  
 
 ---
 
 # TEST OUT THE DEFAULT KEYBINDS:
-Load up a game and try them out!
+**Load up a game and try them out!**
 
 - **Win + G** → Opens Command Prompt  
 - **Win + H** → Opens PowerShell  
@@ -37,7 +37,7 @@ Load up a game and try them out!
 - `+` = **Shift**  
 - `^` = **Ctrl**  
 - `!` = **Alt**  
-- Letters/numbers = just type them (case doesn’t matter).  
+- Letters/numbers = just type them *(case doesn’t matter)*  
 
 ### Examples:
 - `#g::` → Win + G  
