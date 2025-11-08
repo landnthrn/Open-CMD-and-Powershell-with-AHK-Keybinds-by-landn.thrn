@@ -1,14 +1,19 @@
-# HOW TO INSTALL:
+**A AutoHotKey that opens Powershell or Command Prompt with customizeable keybinds, Administrater openings incorperated also.**
 
-First install AutoHotKey  
-👉 [Download here](https://www.autohotkey.com)
+# HOW TO USE:
 
-Once AutoHotKey is installed, place the **OpenTerminals.ahk** file into your AutoHotKey Folder (default path):  
+First install [AutoHotKey](https://www.autohotkey.com)  
+
+Once AutoHotKey is installed you can run the **OpenTerminals.ahk** by Right Click > Run Script
+
+# IF YOU WANT IT TO AUTO RUN ON PC STARTUP:
+
+Place the **OpenTerminals.ahk** file into your AutoHotKey Folder (default path):  
 `C:\Users\%USERNAME%\Documents\AutoHotkey`
 
 Create a shortcut for the **OpenTerminals.ahk**  
 
-Right click on the shortcut → select **Cut**  
+Right click on the shortcut > Select **Cut**  
 
 Press **Win + R** and type `shell:startup`, then hit **Enter**  
 
