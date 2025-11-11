@@ -1,0 +1,93 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+OPENTERMINALS.AHK
+
+An AutoHotKey script that opens PowerShell or Command Prompt with customizable keybinds — Administrator openings incorperated as well.  
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+HOW TO USE:
+
+— First install AutoHotKey:  
+  https://www.autohotkey.com  
+
+— Once AutoHotKey is installed, you can run the OpenTerminals.ahk by Right Click > Run Script  
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+HOW TO MAKE THE .AHK AUTO RUN ON PC STARTUP:
+
+— Place the OpenTerminals.ahk file into your AutoHotKey Folder (default path):  
+  C:\Program Files\AutoHotkey\  
+  Or create an AutoHotKey folder inside Documents:  
+  C:\Users\%USERNAME%\Documents\AutoHotkey  
+
+— Create a shortcut for the OpenTerminals.ahk  
+
+— Right click on the shortcut > Select Cut  
+
+— Use Win + R and type shell:startup, then hit Enter  
+
+— Paste the shortcut file there so it starts up with every computer boot  
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+TEST OUT THE DEFAULT KEYBINDS:
+Load up a game and try them out!
+
+— Win + G = Opens Command Prompt  
+— Win + H = Opens PowerShell  
+— Win + Shift + G = Opens Admin Command Prompt  
+— Win + Shift + H = Opens Admin PowerShell  
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+HOW TO CUSTOMIZE KEYBINDS:
+
+— # = Win key  
+— + = Shift  
+— ^ = Ctrl  
+— ! = Alt  
+— Letters/numbers = just type them (case doesn’t matter)  
+
+Examples:  
+— #g:: = Win + G  
+— #+g:: = Win + Shift + G  
+— ^!c:: = Ctrl + Alt + C  
+— #^!p:: = Win + Ctrl + Alt + P  
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Find more of my creations on Github:  
+https://github.com/landnthrn?tab=repositories  
+
+Support me on Buy Me a Coffee  
+https://buymeacoffee.com/landn.thrn  
+
+Paypal Donation:  
+https://www.paypal.com/donate/?hosted_button_id=K4PLHFVBH7X8C  
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
